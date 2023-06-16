@@ -88,7 +88,7 @@ llm_model_dict = {
     },
     "TigerBot": {
         "name": "TigerBot",
-        "pretrained_model_name": "model/TigerBot",
+        "pretrained_model_name": "TigerResearch/tigerbot-7b-sft",
         "local_model_path": None,
         "provides": "TigerBotLLM"
     },
